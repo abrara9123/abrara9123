@@ -1,6 +1,6 @@
 # Hi, I'm Abrar Ahmed 👋
 
-CS student at the **University of Illinois at Chicago** (GPA: 4.0) specializing in C++ systems programming with a passion for breaking into **Fintech** — building fast, reliable, and scalable financial software.
+CS student at the **University of Illinois at Chicago** (GPA: 4.0) specializing in C++ systems programming with a passion for breaking into **Fintech**  building fast, reliable, and scalable financial software.
 
 ---
 
