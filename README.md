@@ -1,40 +1,28 @@
-# Hi, I'm Abrar Ahmed
+# Abrar Ahmed
 
-CS student at the **University of Illinois Chicago** (GPA: 4.0) specializing in C++ systems programming, with a focus on breaking into **Fintech** — building fast, reliable, and scalable financial software.
+**Computer Science at UIC · C++ systems programming · Data Structures TA**
 
-Currently a **Teaching Assistant for Data Structures (CS 251)** at UIC.
+I build software in C++ and like working on what happens under the hood, from coordinating worker threads to processing camera frames. At UIC, I help students work through data structures and debug their code as a CS 251 teaching assistant. I'm also interested in applying systems programming to financial software.
 
----
+[Portfolio](https://abrara9123.github.io/) · [LinkedIn](https://www.linkedin.com/in/abrar-ahmed3/)
 
-## Tech Stack
+## Featured projects
 
-**Languages:** C++ · C · Python · SQL · Dart · HTML/CSS
-**Tools:** Git · Linux · GDB · GCC · Make · AddressSanitizer · Valgrind · VS Code · Flutter · Qt
-**Core Concepts:** Data Structures & Algorithms · OOP · Multithreading · Memory Management
-
----
-
-## Projects
-
-### [Wordle Solver](https://github.com/abrara9123/wordle-solver)
-A C++ Wordle solver built on a custom templated Binary Search Tree implementing the set ADT, with custom in-order iterators and pattern-based word filtering to suggest optimal guesses.
-
-### [MyMusicViewer](https://github.com/abrara9123/MyMusicViewer)
-Genre-partitioned music library system in C++ using modern STL containers for fast storage and retrieval, with exception handling for runtime safety.
-
-### [Newegg Stock Alerter](https://github.com/abrara9123/projects/tree/main/Newegg%20Stock%20Alerter)
-A multithreaded C++ program that monitors multiple Newegg product pages simultaneously and fires instant notifications when an item restocks. Built with libcurl and configurable polling intervals.
+### [Seer](https://github.com/abrara9123/Seer)
+A macOS assistive-vision prototype that uses a camera to detect objects, estimate their distance, and read text aloud. It combines C++ and Python with Apple Vision for offline text recognition.
 
 ### [QuantCore](https://github.com/abrara9123/QuantCore)
-A C++17 thread pool built from scratch as a systems-programming deep dive, with a task queue and worker pool coordinated via condition-variable-based synchronization.
+A C++17 thread pool built from scratch. Worker threads pull tasks from a shared queue and use a condition variable to sleep until there’s work to do.
 
 ### [RedCorn](https://github.com/abrara9123/redcorn)
-An intentional-listening audio player built around FLAC playback — no resampling, no hidden EQ or normalization, and album-focused so you have to load the next album instead of shuffling endlessly.
+An album-first FLAC player focused on playback without resampling, EQ, or volume normalization.
 
----
+### [UIC ASME Website](https://github.com/abrara9123/ASME-Site-)
+A website for UIC’s American Society of Mechanical Engineers student chapter.
 
-## Connect
+## More C++ work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abrar--ahmed3-blue?logo=linkedin)](https://linkedin.com/in/abrar-ahmed3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abrara9123.github.io-green?logo=github)](https://abrara9123.github.io)
-[![Email](https://img.shields.io/badge/Email-arber9123@gmail.com-red?logo=gmail)](mailto:arber9123@gmail.com)
+- [Wordle Solver](https://github.com/abrara9123/wordle-solver) uses a templated binary search tree and custom iterators to filter possible guesses.
+- [MyMusicViewer](https://github.com/abrara9123/MyMusicViewer) organizes a music library by genre using C++ standard library containers.
+
+**Tools I use** · C++ · C · Python · Java · Git · CMake · GDB · Linux
