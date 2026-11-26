@@ -20,9 +20,7 @@ An album-first FLAC player focused on playback without resampling, EQ, or volume
 ### [UIC ASME Website](https://github.com/abrara9123/ASME-Site-)
 A website for UIC’s American Society of Mechanical Engineers student chapter.
 
-## More C++ work
-
-- [Wordle Solver](https://github.com/abrara9123/wordle-solver) uses a templated binary search tree and custom iterators to filter possible guesses.
-- [MyMusicViewer](https://github.com/abrara9123/MyMusicViewer) organizes a music library by genre using C++ standard library containers.
+### [MyMusicViewer](https://github.com/abrara9123/MyMusicViewer)
+A C++ app that organizes a music library by genre using C++ standard library containers.
 
 **Tools I use** · C++ · C · Python · Java · Git · CMake · GDB · Linux
