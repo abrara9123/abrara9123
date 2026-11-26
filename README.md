@@ -1,9 +1,3 @@
-# Abrar Ahmed
-
-**Computer Science at UIC · C++ systems programming · Data Structures TA**
-
-I build software in C++ and like working on what happens under the hood, from coordinating worker threads to processing camera frames. At UIC, I help students work through data structures and debug their code as a CS 251 teaching assistant. I'm also interested in applying systems programming to financial software.
-
 [Portfolio](https://abrara9123.github.io/) · [LinkedIn](https://www.linkedin.com/in/abrar-ahmed3/)
 
 [![Animated terminal showing Abrar Ahmed’s public GitHub stats, tools, and projects](https://raw.githubusercontent.com/abrara9123/gif-terminal/main/output.gif)](https://github.com/abrara9123/gif-terminal)
