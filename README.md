@@ -5,18 +5,18 @@
 ## Featured projects
 
 ### [Seer](https://github.com/abrara9123/Seer)
-A macOS assistive-vision prototype that uses a camera to detect objects, estimate their distance, and read text aloud. It combines C++ and Python with Apple Vision for offline text recognition.
+Seer is a macOS assistive-vision prototype that describes what a camera sees. It identifies objects, gives camera-relative directions and rough distance estimates, and reads text aloud. The C++ and Python app uses Apple Vision for offline text recognition and runs depth estimation and text recognition on separate background workers so object detection can keep running.
 
 ### [QuantCore](https://github.com/abrara9123/QuantCore)
-A C++17 thread pool built from scratch. Worker threads pull tasks from a shared queue and use a condition variable to sleep until there’s work to do.
+QuantCore is a C++17 thread pool that runs queued tasks across a group of reusable worker threads. I built the task queue and worker coordination from scratch, using a condition variable to put idle workers to sleep and wake them when work arrives.
 
 ### [RedCorn](https://github.com/abrara9123/redcorn)
-An album-first FLAC player focused on playback without resampling, EQ, or volume normalization.
+RedCorn is a C++ FLAC player designed around listening to an album from start to finish. Playback ends with the album, and you choose when to load the next one. The player is designed to preserve the source audio by avoiding resampling, EQ, and volume normalization.
 
 ### [UIC ASME Website](https://github.com/abrara9123/ASME-Site-)
-A website for UIC’s American Society of Mechanical Engineers student chapter.
+I built this site for UIC’s American Society of Mechanical Engineers student chapter. Visitors can find upcoming events, meet the team, learn about the chapter and its history, and see who sponsors it.
 
 ### [MyMusicViewer](https://github.com/abrara9123/MyMusicViewer)
-A C++ app that organizes a music library by genre using C++ standard library containers.
+MyMusicViewer is a C++ music-library project in progress. It groups tracks by genre using standard library containers and separates music storage from the operations that work with the library.
 
 **Tools I use** · C++ · C · Python · Java · Git · CMake · GDB · Linux
